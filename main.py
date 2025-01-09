@@ -1,7 +1,7 @@
 from modules import crud
 
 def main():
-    print("Primera aplicacion de trabajo en github")
+    print("Primera aplicacion en github")
     while True:
         print("\nMenu:")
         print("1. Create Record")
